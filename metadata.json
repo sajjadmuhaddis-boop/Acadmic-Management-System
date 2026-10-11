@@ -1,0 +1,6 @@
+{
+  "name": "EduPulse LMS - Multi-Portal Academic Management System",
+  "description": "Comprehensive Learning Management System with integrated Administrator, Teacher, and Student portals for course allocation, timetable, attendance, quizzes, assignments, lecture materials, results, and support messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
